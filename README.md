@@ -2,7 +2,9 @@
 
 ## Hey, I'm Alex :wave:
 
-I'm a CS & Math major interested in security and privacy, cryptography and open source. I'm currently interning at Mozilla as a Security Engineering Intern. Here's some other stuff that I do:
+I'm a Math & CS major interested in security and privacy, cryptography, and open source. **I'm currently interning at Mozilla as a Security Engineering Intern, working on [package manager security](https://github.com/mozilla-services/dependency-observatory).**
+
+Here's some other stuff that I do:
 
 - [Write CTF problems](https://github.com/alex-bellon/ctf-challenges) and [give talks](https://github.com/alex-bellon/talks) about security topics with [@utisss](https://github.com/utisss) (we're the team behind [UTCTF](https://github.com/utisss/UTCTF-20))
 - Participate in [CCDC](https://www.nationalccdc.org/) and [CPTC](https://www.nationalcptc.org/) with [@UT-CTF](https://github.com/UT-CTF)
