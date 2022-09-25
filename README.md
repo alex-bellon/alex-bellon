@@ -1,3 +1,3 @@
-I'm a CS PhD student at UC San Diego interested in security and privacy, cryptography, and open source. I recently graduated from UT Austin with my CS and Mathematics degrees, and last summer I interned at Mozilla as a Security Engineering Intern working on [package manager security](https://github.com/mozilla-services/dependency-observatory).
+I'm a CS PhD student at UC San Diego interested in security and privacy, cryptography, and open source. My work focuses on the security of high-risk systems like medical devices and airplanes, and I am also working on projects related to wide-deployment IoT networks and usable security.
 
 You can find out more info on [my website](https://alex-bellon.com)
